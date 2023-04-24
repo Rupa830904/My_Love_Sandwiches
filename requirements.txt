@@ -1,1 +1,4 @@
 # Your requirements go here
+gspread==5.7.2
+google-auth==2.6.0
+google-auth-oauthlib==0.4.6
